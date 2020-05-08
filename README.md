@@ -1,6 +1,4 @@
-# Cubic Tetris
-[![License: GPL v3]
-![GitHub repo size in bytes]
+# 3D Tetris
 
 A 3D Tetris game made with Unity developed by Zijun Chen, Zhe Tang & Yu Liu and updated by Octavian Gheorghiu 
 
