@@ -1,6 +1,6 @@
 # 3D Tetris
 
-A 3D Tetris game made with Unity developed by Zijun Chen, Zhe Tang & Yu Liu and updated by Octavian Gheorghiu 
+A 3D Tetris game made with Unity developed by Zijun Chen, Zhe Tang & Yu Liu and updated by Octavian Gheorghiu. 
 
 # Assets Used
 
